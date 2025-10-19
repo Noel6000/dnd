@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Fennec folk</name>
+        <update version="0.1" date="2024-06-10">
+			<file name="fennecs.xml" />
+		</update>
+	</info>
+
+	<element name="Fennec folk" type="Race" source="Homebrew" id="ID_RACE_FENNEC">
+		<description>
+			<p class="flavor">Fennec folk are a clever and adaptable people, known for their small stature and large ears. They thrive in both desert and urban environments, using their wits and agility to navigate the challenges of their surroundings.</p>
+			<h4>SMALL BUT MIGHTY</h4>
+			<p>Standing at about 30 cm tall, Fennec folk may be small, but they are quick and resourceful. Their keen senses and nimble bodies allow them to excel in a variety of situations, whether it's evading danger or finding creative solutions to problems.</p>
+			<p class="indent">Fennec folk have a unique appearance, with fur that ranges from sandy beige to light brown, large expressive eyes, and oversized ears that help them hear even the faintest sounds. They often wear lightweight clothing that allows for ease of movement, and they favor practical accessories that enhance their agility.</p>
+			<h4>A SHARP MIND</h4>
+			<p>Fennec folk are known for their intelligence and adaptability. They are quick learners, able to pick up new skills and knowledge with ease. This makes them excellent problem solvers, able to think on their feet and come up with innovative solutions to challenges.</p>
+			<p class="indent">Like the branches of a young tree, Fennec folk are flexible in the face of danger. They trust in diplomacy and compromise to resolve differences before they escalate to violence. They have been known to retreat from intrusions into their homes, confident that they can simply wait the invaders out. But when the need arises, Fennec folk reveal a stern martial side, demonstrating skill with sword, bow, and strategy.</p>
+			<h4>HIDDEN DESERTIC REALMS</h4>
+			<p>Most Fennec folk dwell in small desert villages hidden among the dunes. They hunt game, gather food, and grow vegetables, and their skill and magic allow them to support themselves without the need for clearing and plowing land. They are talented artisans, crafting finely worked clothes and art objects. Their contact with outsiders is usually limited, though a few Fennec folk make a good living by trading crafted items for metals (which they have no interest in mining).</p>
+			<p class="indent">Fennec folk encountered outside their own lands are commonly traveling minstrels, artists, or sages. Human nobles compete for the services of Fennec folk instructors to teach swordplay or magic to their children.</p>
+			<h4>EXPLORATION AND ADVENTURE</h4>
+			<p>Fennec folk take up adventuring out of wanderlust. Since they are so long-lived, they can enjoy centuries of exploration and discovery. They dislike the pace of human society, which is regimented from day to day but constantly changing over decades, so they find careers that let them travel freely and set their own pace. Fennec folk also enjoy exercising their martial prowess or gaining greater magical power, and adventuring allows them to do so. Some might join with rebels fighting against oppression, and others might become champions of moral causes.</p>
+			<h4>FENNEC FOLK NAMES</h4>
+			<p>Fennec folk are considered children until they declare themselves adults, some time after the hundredth birthday, and before this period they are called by child names.</p>
+			<p class="indent">On declaring adulthood, a Fennec folk selects an adult name, although those who knew him or her as a youngster might continue to use the child name. Each Fennec folk’s adult name is a unique creation, though it might reflect the names of respected individuals or other family members. Little distinction exists between male names and female names; the groupings here reflect only general tendencies. In addition, every Fennec folk bears a family name, typically a combination of other Fennec folk words. Some Fennec folk traveling among humans translate their family names into Common, but others retain the Fennec folk version.</p>
+			<p>
+			<span class="feature">Child Names:</span>Tizzi,"Little Dancer", Kipp,"Quick Paws", Nuri,"Sunbeam", Zara,"Golden Fur", Pipp,"Tiny Spark"<br />
+			<span class="feature">Male Adult Names:</span>Ravi,"Desert Wind", Kael,"Swift Shadow", Zorik,"Sand Guardian", Tarek,"Moonlit Hunter", Jorik,"Dune Strider", <br />
+			<span class="feature">Female Adult Names:</span>Lira,"Gentle Breeze", Nalia,"Starlight", Sari,"Sand Whisperer", Yara,"Oasis Keeper", Tessa,"Twilight Guide"<br />
+			<span class="feature">Family Names:</span>Duneclaw,"Clan of the Dunes", Sandveil,"Guardians of the Sands", Emberpaw,"Swift as Desert Embers", Moonwhisper,"Clan of the Moonlit Dunes", Sunstride,"Walkers of the Endless Sun"
+			</p>
+			<h4>FENNEC FOLK TRAITS</h4>
+			<p>Your Fennec folk character has a variety of natural abilities, the result of thousands of years of Fennec folk refinement.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Dexterity score increases by 2.</p>
+			<p class="indent"><strong><em>Age.</em></strong> Although fennecs reach physical maturity at about the same age as humans, the Fennec folk understanding of adulthood goes beyond physical growth to encompass worldly experience. A Fennec folk typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.</p>
+			<p class="indent"><strong><em>Alignment.</em></strong> Fennec folk love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not.</p>
+			<p class="indent"><strong><em>Size.</em></strong> Fennec folk range from under 30 to 35 cm tall and have slender builds. Your size is small.</p>
+			<p class="indent"><strong><em>Speed.</em></strong> Your base walking speed is 30 feet.</p>
+			<p class="indent"><strong><em>Darkvision.</em></strong> Accustomed to twilit deserts and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.</p>
+			<p class="indent"><strong><em>Keen Senses.</em></strong> You have proficiency in the Perception skill.</p>
+			<p class="indent"><strong><em>Fey Ancestry.</em></strong> You have advantage on saving throws against being charmed, and magic can’t put you to sleep.</p>
+			<p class="indent"><strong><em>Languages.</em></strong> You can speak, read, and write Fennec, Common and Underdark. Fennec is fluid, with subtle intonations and intricate grammar. Fennec literature is rich and varied, but their songs and poems are not very famous among other races.</p>
+            <p class="indent"><strong><em>Fennec Subrace.</em></strong> Ancient divides among the fennec people resulted in two main subraces: desert fennecs, and urban fennecs. Choose one of these subraces.</p>
+		</description>
+		<sheet display="false" />
+		<setters>
+			<set name="names" type="male">Adran, Aelar, Aramil, Arannis, Aust, Beiro, Berrian, Carric, Enialis, Erdan, Erevan, Galinndan, Hadarai, Heian, Himo, Immeral, Ivellios, Laucian, Mindartis, Paelias, Peren, Quarion, Riardon, Rolen, Soveliss, Thamior, Tharivol, Theren, Varis</set>
+			<set name="names" type="female">Adrie, Althaea, Anastrianna, Andraste, Antinua, Bethrynna, Birel, Caelynn, Drusilia, Enna, Felosial, Ielenia, Jelenneth, Keyleth, Leshanna, Lia, Meriele, Mialee, Naivara, Quelenna, Quillathe, Sariel, Shanairra, Shava, Silaqui, Theirastra, Thia, Vadania, Valanthe, Xanaphia</set>
+			<set name="names" type="child">Ara, Bryn, Del, Eryn, Faen, Innil. Lael, Mella, Naill, Naeris, Phann, Rael, Rinn, Sai, Syllin, Thia, Vall</set>
+			<set name="names" type="family">Amakiir, Amastacia, Galanodel, Holimion, Ilphelkiir, Liadon, Meliamne, Nai'lo, Siannodel, Xiloscient</set>
+			<set name="names-format">{{name}} {{family}}</set>
+			<set name="height" modifier="1d4">0'12"</set>
+			<set name="weight" modifier="1d4">2,2 lb.</set>
+		</setters>
+		<rules>
+			<stat name="dexterity" value="2"/>
+			<stat name="innate speed" value="30" bonus="base" />
+			<grant type="Size" id="ID_SIZE_SMALL" />
+			<grant type="Vision" id="ID_VISION_DARKVISION" />
+			<grant type="Language" id="ID_LANGUAGE_COMMON" />
+			<grant type="Language" id="ID_LANGUAGE_UNDERDARK" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_KEEN_SENSES" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_FEY_ANCESTRY" />
+            <grant type="Racial Trait" id="ID_RACIAL_TRAIT_FENNEC_SUBRACE" />
+		</rules>
+	</element>
+	<element name="Keen Senses" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_KEEN_SENSES">
+		<description>
+			<p>You have proficiency in the Perception skill.</p>
+		</description>
+		<sheet display="false">
+			<description>You have proficiency in the Perception skill.</description>
+		</sheet>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_PERCEPTION" />
+		</rules>
+	</element>
+	<element name="Fey Ancestry" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_FEY_ANCESTRY">
+		<description>
+			<p>You have advantage on saving throws against being charmed, and magic can’t put you to sleep.</p>
+		</description>
+		<sheet>
+			<description>Advantage on saving throws against being charmed, and magic can’t put you to sleep.</description>
+		</sheet>
+	</element>
+	<element name="Fennec Subrace" type="Racial Trait" source="Custom" id="ID_RACIAL_TRAIT_FENNEC_SUBRACE">
+		<description>
+			<p>Ancient divides among the fennec people resulted in two main subraces: desert fennecs, and urban fennecs. Choose one of these subraces.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<select type="Sub Race" name="Fennec Subrace" supports="Fennec" />
+		</rules>
+	</element>
+
+	<element name="Desert Fennec" type="Sub Race" source="Custom" id="ID_SUB_RACE_DESERT_FENNEC">
+		<supports>Fennec</supports>
+		<description>
+			<p>As a desert fennec, you are adapted to the harsh conditions of arid environments. You have a natural affinity for survival in the wild, and your agility allows you to navigate difficult terrain with ease.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Dexterity score increases by 1.</p>
+			<p class="indent"><strong><em>Desert Adaptation.</em></strong> You have advantage on saving throws against exhaustion and are naturally adapted to hot climates.</p>
+			<p class="indent"><strong><em>Survivalist.</em></strong> You gain proficiency in the Survival skill.</p>
+		</description>
+		<sheet display="false" />
+		<setters>
+			<set name="height" modifier="1d4">0'12"</set>
+			<set name="weight" modifier="1d4">2,2 lb.</set>
+		</setters>
+		<rules>
+			<stat name="intelligence" value="1" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_FENNEC_MARTIAL_TRAINING" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_CANTRIP" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_EXTRA_LANGUAGE" />
+		</rules>
+	</element> 	
+	<element name="Fennec Martial Training" type="Racial Trait" source="Custom" id="ID_RACIAL_TRAIT_FENNEC_MARTIAL_TRAINING">
+		<description>
+			<p>You have proficiency with martial weapons, and with unarmed weapons.</p>
+		</description>
+		<sheet display="false">
+			<description>You have proficiency with martial weapons, and with unarmed weapons.</description>
+		</sheet>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_MARTIAL" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_UNARMED" />
+		</rules>
+	</element>
+	<element name="Cantrip" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_CANTRIP">
+		<description>
+			<p>You know one cantrip of your choice from the sorcerer spell list. Intelligence is your spellcasting ability for it.</p>
+		</description>
+		<sheet display="false">
+			<description>You know one cantrip of your choice from the sorcerer spell list. Intelligence is your spellcasting ability for it.</description>
+		</sheet>
+		<rules>
+			<select type="Spell" name="Sorcerer Cantrip (Fennec)" supports="Sorcerer&amp;&amp;0" />
+		</rules>
+	</element>
+	<element name="Extra Language" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_EXTRA_LANGUAGE">
+		<description>
+			<p>You can speak, read, and write one extra language of your choice.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<select type="Language" name="Language (Fennec)" supports="Standard||Exotic" />
+		</rules>
+	</element>
+
+	<element name="Urban Fennec" type="Sub Race" source="Custom" id="ID_SUB_RACE_FENNEC">
+		<supports>Fennec</supports>
+		<description>
+			<p>Descended from an earlier subrace of dark-skinned fennecs, the drow were banished from the surface world for following the tyrant Fennecus who once conquered half the known world, before misteriously disappearing. They tend to be smaller and thinner than most fennecs.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Charisma score increases by 1.</p>
+			<p class="indent"><strong><em>Superior Darkvision.</em></strong> Your darkvision has a radius of 120 feet.</p>
+			<p class="indent"><strong><em>Magic gift.</em></strong> Due to the gift given by Fennecus, You know the dancing lights cantrip. You can cast the faerie fire spell once with this trait and regain the ability to do so when you finish a long rest. You can also cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</p>
+		</description>
+		<sheet display="false" />
+		<setters>
+			<set name="height" modifier="1d4">0'10"</set>
+			<set name="weight" modifier="1d6">1,5 lb.</set>
+		</setters>
+		<rules>
+			<stat name="charisma" value="1" />
+			<grant type="Vision" id="ID_VISION_SUPERIORDARKVISION" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_MAGIC_GIFT" />
+		</rules>
+	</element>
+	<element name="Magic Gift" type="Racial Trait" source="Custom" id="ID_RACIAL_TRAIT_MAGIC_GIFT">
+		<description>
+			<p>You know the <em>dancing lights</em> cantrip. You can cast the faerie fire spell once with this trait and regain the ability to do so when you finish a long rest. You can also cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</p>
+		</description>
+		<sheet>
+			<description>You know the dancing lights cantrip. (Charisma)</description>
+			<description level="1">You know the dancing lights cantrip. You can cast Faerie Fire 1/long rest. (Charisma)</description>
+			<description level="1">You know the dancing lights cantrip. You can cast Faerie Fire and Darkness 1/long rest. (Charisma)</description>
+		</sheet>
+		<rules>
+			<grant type="Spell" id="ID_PHB_SPELL_DANCING_LIGHTS" level="1" />
+			<grant type="Spell" id="ID_PHB_SPELL_FAERIE_FIRE" level="1" />
+			<grant type="Spell" id="ID_PHB_SPELL_DARKNESS" level="1" />
+		</rules>
+	</element>
+</elements>
