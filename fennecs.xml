@@ -3,7 +3,7 @@
 	<info>
 		<name>Fennec folk</name>
         <update version="0.1" date="2024-06-10">
-			<file name="fennecs.xml" />
+			<file name="fennecs.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook/races/race-elf.xml"  />
 		</update>
 	</info>
 
