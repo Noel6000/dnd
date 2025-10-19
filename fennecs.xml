@@ -34,7 +34,7 @@
 			<p>Your Fennec folk character has a variety of natural abilities, the result of thousands of years of Fennec folk refinement.</p>
 			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Dexterity score increases by 2.</p>
 			<p class="indent"><strong><em>Age.</em></strong> Although fennecs reach physical maturity at about the same age as humans, the Fennec folk understanding of adulthood goes beyond physical growth to encompass worldly experience. A Fennec folk typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.</p>
-			<p class="indent"><strong><em>Alignment.</em></strong> Fennec folk love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not.</p>
+			<p class="indent"><strong><em>Alignment.</em></strong> Fennec folk love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.</p>
 			<p class="indent"><strong><em>Size.</em></strong> Fennec folk range from under 30 to 35 cm tall and have slender builds. Your size is small.</p>
 			<p class="indent"><strong><em>Speed.</em></strong> Your base walking speed is 30 feet.</p>
 			<p class="indent"><strong><em>Darkvision.</em></strong> Accustomed to twilit deserts and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.</p>
@@ -59,7 +59,6 @@
 			<grant type="Size" id="ID_SIZE_SMALL" />
 			<grant type="Vision" id="ID_VISION_DARKVISION" />
 			<grant type="Language" id="ID_LANGUAGE_COMMON" />
-			<grant type="Language" id="ID_LANGUAGE_UNDERDARK" />
 			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_KEEN_SENSES" />
 			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_FEY_ANCESTRY" />
             <grant type="Racial Trait" id="ID_RACIAL_TRAIT_FENNEC_SUBRACE" />
