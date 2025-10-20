@@ -32,7 +32,7 @@
 			</p>
 			<h4>FENNEC FOLK TRAITS</h4>
 			<p>Your Fennec folk character has a variety of natural abilities, the result of thousands of years of Fennec folk refinement.</p>
-			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Dexterity score increases by 2.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Dexterity score increases by 4.</p>
 			<p class="indent"><strong><em>Age.</em></strong> Although fennecs reach physical maturity at about the same age as humans, the Fennec folk understanding of adulthood goes beyond physical growth to encompass worldly experience. A Fennec folk typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.</p>
 			<p class="indent"><strong><em>Alignment.</em></strong> Fennec folk love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.</p>
 			<p class="indent"><strong><em>Size.</em></strong> Fennec folk range from under 30 to 35 cm tall and have slender builds. Your size is small.</p>
@@ -54,7 +54,7 @@
 			<set name="weight" modifier="1d4">2,2 lb.</set>
 		</setters>
 		<rules>
-			<stat name="dexterity" value="2"/>
+			<stat name="dexterity" value="4"/>
 			<stat name="innate speed" value="30" bonus="base" />
 			<grant type="Size" id="ID_SIZE_SMALL" />
 			<grant type="Vision" id="ID_VISION_DARKVISION" />
